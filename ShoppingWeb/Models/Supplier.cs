@@ -14,6 +14,7 @@ namespace ShoppingWeb.Models
         public string? Phone { get; set; } 
         public string? Address { get; set; } 
 
+
          // Navigation property for Products
         public List<Product>? Products { get; set; }
     }
