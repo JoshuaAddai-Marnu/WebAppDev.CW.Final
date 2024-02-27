@@ -19,6 +19,5 @@ namespace ShoppingWeb.Models
         // Navigation property for OrderItems
         public List<OrderItem>? OrderItems { get; set; }
         
-        
     }
 }
