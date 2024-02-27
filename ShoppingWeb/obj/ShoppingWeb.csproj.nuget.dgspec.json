@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshuaaddai-marnu/Desktop/WebAppDev.CW.Fin./ShoppingWeb/ShoppingWeb.csproj": {}
+    "/Users/joshuaaddai-marnu/CW.WebAppDev/WebAppDev.CW.Final/ShoppingWeb/ShoppingWeb.csproj": {}
   },
   "projects": {
-    "/Users/joshuaaddai-marnu/Desktop/WebAppDev.CW.Fin./ShoppingWeb/ShoppingWeb.csproj": {
+    "/Users/joshuaaddai-marnu/CW.WebAppDev/WebAppDev.CW.Final/ShoppingWeb/ShoppingWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshuaaddai-marnu/Desktop/WebAppDev.CW.Fin./ShoppingWeb/ShoppingWeb.csproj",
+        "projectUniqueName": "/Users/joshuaaddai-marnu/CW.WebAppDev/WebAppDev.CW.Final/ShoppingWeb/ShoppingWeb.csproj",
         "projectName": "ShoppingWeb",
-        "projectPath": "/Users/joshuaaddai-marnu/Desktop/WebAppDev.CW.Fin./ShoppingWeb/ShoppingWeb.csproj",
+        "projectPath": "/Users/joshuaaddai-marnu/CW.WebAppDev/WebAppDev.CW.Final/ShoppingWeb/ShoppingWeb.csproj",
         "packagesPath": "/Users/joshuaaddai-marnu/.nuget/packages/",
-        "outputPath": "/Users/joshuaaddai-marnu/Desktop/WebAppDev.CW.Fin./ShoppingWeb/obj/",
+        "outputPath": "/Users/joshuaaddai-marnu/CW.WebAppDev/WebAppDev.CW.Final/ShoppingWeb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joshuaaddai-marnu/.nuget/NuGet/NuGet.Config"
